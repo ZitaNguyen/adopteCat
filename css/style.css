@@ -1,0 +1,80 @@
+/*---------------------------------- 
+General 
+----------------------------------*/
+body {
+    background: rgb(245, 245, 245);
+}
+
+nav, 
+footer {
+    background-color: #061339;
+}
+
+.titre1,
+.titre2, 
+h4, 
+h2 {
+    font-family: 'Merienda';
+}
+
+h4, 
+h2 {
+    color: #2F4073;
+}
+
+/*---------------------------------- 
+Header
+----------------------------------*/
+.titre1 {
+   text-decoration: none;
+   color: #FFF; 
+}
+
+.bg {
+    height: 20vh;
+}
+
+.titre2 {
+    font-size: 4vh;
+    color: #FFF;
+    /* margin-top: 50%; */
+}
+
+/*---------------------------------- 
+Carousel 
+----------------------------------*/
+.carousel-indicators > li {
+    border-radius: 50%;
+    width: 12px;
+    height: 12px;
+    background-color: #FFF;
+}
+
+
+/*---------------------------------- 
+Form
+----------------------------------*/
+form {
+    margin-bottom: 10vh;
+}
+
+/*---------------------------------- 
+Information
+----------------------------------*/
+.info {
+    background: rgb(224, 224, 224);
+}
+
+.info img {
+    background-color: #7885A5;
+    width: 20rem;
+    height: auto;
+}
+
+/*---------------------------------- 
+Footer
+----------------------------------*/
+footer p {
+    color: #FFF;
+}
+
